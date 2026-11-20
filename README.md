@@ -1,16 +1,13 @@
-## Hi there 👋
 
-<!--
-**Alberto-Syn/Alberto-Syn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hola, soy Alberto
+Bienvenido a mi perfil de GitHub.
+Aquí subiré mis proyectos de programación relacionados con la automatización de procesos, especialmente aquellos orientados a resolver tareas repetitivas y problemas del día a día.
+Actualmente estoy aprendiendo y trabajando con tecnologías como:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🐍 Python
+- 📊 Excel y automatización de datos
+- 🗄️ SQL y bases de datos
+- ⚙️ Automatización de procesos
+- 🔌 APIs
+Mi objetivo es seguir aprendiendo programación a través de proyectos reales y encontrar formas de hacer los procesos más simples, rápidos y eficientes.
+🚀 Learning by building.
