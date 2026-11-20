@@ -9,5 +9,6 @@ Actualmente estoy aprendiendo y trabajando con tecnologías como:
 - 🗄️ SQL y bases de datos
 - ⚙️ Automatización de procesos
 - 🔌 APIs
+
 Mi objetivo es seguir aprendiendo programación a través de proyectos reales y encontrar formas de hacer los procesos más simples, rápidos y eficientes.
 🚀 Learning by building.
